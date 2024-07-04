@@ -1,0 +1,2522 @@
+{
+    "meta": {
+        "Difficulty": "IN 14",
+        "Composer": "LeaF",
+        "ChartDesign": "BallThe",
+        "BarMeter": 4,
+        "BPM": 250,
+        "Offset": 65,
+        "Speed": -0.1
+    },
+    "notes": [
+        {
+            "Beat": [
+                7,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                7,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                9,
+                1,
+                2
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                9,
+                1,
+                2
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                9,
+                10,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                9,
+                12,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                9,
+                13,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                9,
+                14,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                9,
+                15,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                10,
+                0,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                10,
+                0,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                10,
+                1,
+                4
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                10,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                10,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                10,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                10,
+                5,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                10,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                1,
+                4
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                5,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                6,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                7,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                8,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                8,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                10,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                11,
+                12,
+                16
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                1,
+                4
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                1,
+                4
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                5,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                12,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                13,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                13,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                13,
+                1,
+                4
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                13,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                13,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                13,
+                3,
+                4
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                13,
+                3,
+                4
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                1,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                1,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                2,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                5,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                14,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                2,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                15,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                2,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                2,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                5,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                16,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                17,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                17,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                17,
+                2,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                17,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                17,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                17,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                17,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                1,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                1,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                2,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                3,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                4,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                5,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                18,
+                6,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                19,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                19,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                19,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 1,
+            "Type": "Hold",
+            "EndBeat": [
+                20,
+                0,
+                8
+            ]
+        },
+        {
+            "Beat": [
+                20,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 0,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                20,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 2,
+            "Type": "Tap"
+        },
+        {
+            "Beat": [
+                20,
+                0,
+                8
+            ],
+            "TimeGroup": 0,
+            "Lane": 3,
+            "Type": "Tap"
+        }
+    ],
+    "events": [
+        {
+            "Type": "SpeedChange",
+            "Beat": [
+                7,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Speed": 10
+        },
+        {
+            "Type": "SpeedChange",
+            "Beat": [
+                9,
+                0,
+                1
+            ],
+            "TimeGroup": 0,
+            "Speed": 1
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                28,
+                0,
+                1
+            ],
+            "BPM": 70
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                32,
+                0,
+                1
+            ],
+            "BPM": 280
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                33,
+                0,
+                1
+            ],
+            "BPM": 135
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                34,
+                0,
+                1
+            ],
+            "BPM": 124
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                36,
+                0,
+                4
+            ],
+            "BPM": 250
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                36,
+                1,
+                4
+            ],
+            "BPM": 251
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                36,
+                2,
+                4
+            ],
+            "BPM": 252
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                36,
+                3,
+                4
+            ],
+            "BPM": 253
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                37,
+                0,
+                4
+            ],
+            "BPM": 254
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                37,
+                1,
+                4
+            ],
+            "BPM": 255
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                37,
+                2,
+                4
+            ],
+            "BPM": 256
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                37,
+                3,
+                4
+            ],
+            "BPM": 257
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                38,
+                0,
+                4
+            ],
+            "BPM": 258
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                38,
+                1,
+                4
+            ],
+            "BPM": 259
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                38,
+                2,
+                4
+            ],
+            "BPM": 260
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                38,
+                3,
+                4
+            ],
+            "BPM": 261
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                39,
+                0,
+                4
+            ],
+            "BPM": 262
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                39,
+                1,
+                4
+            ],
+            "BPM": 263
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                39,
+                2,
+                4
+            ],
+            "BPM": 264
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                39,
+                3,
+                4
+            ],
+            "BPM": 265
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                40,
+                0,
+                4
+            ],
+            "BPM": 266
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                40,
+                1,
+                4
+            ],
+            "BPM": 267
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                40,
+                2,
+                4
+            ],
+            "BPM": 268
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                40,
+                3,
+                4
+            ],
+            "BPM": 269
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                41,
+                0,
+                4
+            ],
+            "BPM": 270
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                41,
+                1,
+                4
+            ],
+            "BPM": 271
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                41,
+                2,
+                4
+            ],
+            "BPM": 272
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                41,
+                3,
+                4
+            ],
+            "BPM": 273
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                42,
+                0,
+                4
+            ],
+            "BPM": 274
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                42,
+                1,
+                4
+            ],
+            "BPM": 275
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                42,
+                2,
+                4
+            ],
+            "BPM": 276
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                42,
+                3,
+                4
+            ],
+            "BPM": 277
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                43,
+                0,
+                4
+            ],
+            "BPM": 278
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                43,
+                1,
+                4
+            ],
+            "BPM": 279
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                43,
+                2,
+                4
+            ],
+            "BPM": 280
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                43,
+                3,
+                4
+            ],
+            "BPM": 281
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                44,
+                0,
+                4
+            ],
+            "BPM": 282
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                44,
+                1,
+                4
+            ],
+            "BPM": 283
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                44,
+                2,
+                4
+            ],
+            "BPM": 284
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                44,
+                3,
+                4
+            ],
+            "BPM": 285
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                45,
+                0,
+                4
+            ],
+            "BPM": 286
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                45,
+                1,
+                4
+            ],
+            "BPM": 287
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                45,
+                2,
+                4
+            ],
+            "BPM": 288
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                45,
+                3,
+                4
+            ],
+            "BPM": 289
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                46,
+                0,
+                4
+            ],
+            "BPM": 290
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                46,
+                1,
+                4
+            ],
+            "BPM": 291
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                46,
+                2,
+                4
+            ],
+            "BPM": 292
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                46,
+                3,
+                4
+            ],
+            "BPM": 293
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                47,
+                0,
+                4
+            ],
+            "BPM": 294
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                47,
+                1,
+                4
+            ],
+            "BPM": 295
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                47,
+                2,
+                4
+            ],
+            "BPM": 296
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                47,
+                3,
+                4
+            ],
+            "BPM": 297
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                48,
+                0,
+                4
+            ],
+            "BPM": 298
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                48,
+                1,
+                4
+            ],
+            "BPM": 299
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                48,
+                2,
+                4
+            ],
+            "BPM": 300
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                48,
+                3,
+                4
+            ],
+            "BPM": 301
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                49,
+                0,
+                4
+            ],
+            "BPM": 302
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                49,
+                1,
+                4
+            ],
+            "BPM": 303
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                49,
+                2,
+                4
+            ],
+            "BPM": 304
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                49,
+                3,
+                4
+            ],
+            "BPM": 305
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                50,
+                0,
+                4
+            ],
+            "BPM": 306
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                50,
+                1,
+                4
+            ],
+            "BPM": 307
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                50,
+                2,
+                4
+            ],
+            "BPM": 308
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                50,
+                3,
+                4
+            ],
+            "BPM": 309
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                51,
+                0,
+                4
+            ],
+            "BPM": 310
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                51,
+                1,
+                4
+            ],
+            "BPM": 311
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                51,
+                2,
+                4
+            ],
+            "BPM": 312
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                51,
+                3,
+                4
+            ],
+            "BPM": 313
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                52,
+                0,
+                4
+            ],
+            "BPM": 314
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                52,
+                1,
+                4
+            ],
+            "BPM": 315
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                52,
+                2,
+                4
+            ],
+            "BPM": 316
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                52,
+                3,
+                4
+            ],
+            "BPM": 317
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                53,
+                0,
+                4
+            ],
+            "BPM": 318
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                53,
+                1,
+                4
+            ],
+            "BPM": 319
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                53,
+                2,
+                4
+            ],
+            "BPM": 320
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                53,
+                3,
+                4
+            ],
+            "BPM": 321
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                54,
+                0,
+                4
+            ],
+            "BPM": 322
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                54,
+                1,
+                4
+            ],
+            "BPM": 323
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                54,
+                2,
+                4
+            ],
+            "BPM": 324
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                54,
+                3,
+                4
+            ],
+            "BPM": 325
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                55,
+                0,
+                4
+            ],
+            "BPM": 326
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                55,
+                1,
+                4
+            ],
+            "BPM": 327
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                55,
+                2,
+                4
+            ],
+            "BPM": 328
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                55,
+                3,
+                4
+            ],
+            "BPM": 329
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                56,
+                0,
+                4
+            ],
+            "BPM": 330
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                56,
+                1,
+                4
+            ],
+            "BPM": 331
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                56,
+                2,
+                4
+            ],
+            "BPM": 332
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                56,
+                3,
+                4
+            ],
+            "BPM": 333
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                57,
+                0,
+                4
+            ],
+            "BPM": 334
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                57,
+                1,
+                4
+            ],
+            "BPM": 335
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                57,
+                2,
+                4
+            ],
+            "BPM": 336
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                57,
+                3,
+                4
+            ],
+            "BPM": 337
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                58,
+                0,
+                4
+            ],
+            "BPM": 338
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                58,
+                1,
+                4
+            ],
+            "BPM": 339
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                58,
+                2,
+                4
+            ],
+            "BPM": 340
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                58,
+                3,
+                4
+            ],
+            "BPM": 341
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                59,
+                0,
+                4
+            ],
+            "BPM": 342
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                59,
+                1,
+                4
+            ],
+            "BPM": 343
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                59,
+                2,
+                4
+            ],
+            "BPM": 344
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                59,
+                3,
+                4
+            ],
+            "BPM": 345
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                60,
+                0,
+                4
+            ],
+            "BPM": 346
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                60,
+                1,
+                4
+            ],
+            "BPM": 347
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                60,
+                2,
+                4
+            ],
+            "BPM": 348
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                60,
+                3,
+                4
+            ],
+            "BPM": 349
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                61,
+                0,
+                4
+            ],
+            "BPM": 350
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                61,
+                1,
+                4
+            ],
+            "BPM": 351
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                61,
+                2,
+                4
+            ],
+            "BPM": 352
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                61,
+                3,
+                4
+            ],
+            "BPM": 353
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                62,
+                0,
+                4
+            ],
+            "BPM": 354
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                62,
+                1,
+                4
+            ],
+            "BPM": 355
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                62,
+                2,
+                4
+            ],
+            "BPM": 356
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                62,
+                3,
+                4
+            ],
+            "BPM": 357
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                63,
+                0,
+                4
+            ],
+            "BPM": 358
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                63,
+                1,
+                4
+            ],
+            "BPM": 359
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                63,
+                2,
+                4
+            ],
+            "BPM": 360
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                63,
+                3,
+                4
+            ],
+            "BPM": 361
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                64,
+                0,
+                4
+            ],
+            "BPM": 362
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                64,
+                1,
+                4
+            ],
+            "BPM": 363
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                64,
+                2,
+                4
+            ],
+            "BPM": 364
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                64,
+                3,
+                4
+            ],
+            "BPM": 365
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                65,
+                0,
+                4
+            ],
+            "BPM": 366
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                65,
+                1,
+                4
+            ],
+            "BPM": 367
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                65,
+                2,
+                4
+            ],
+            "BPM": 368
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                65,
+                3,
+                4
+            ],
+            "BPM": 369
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                66,
+                0,
+                4
+            ],
+            "BPM": 370
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                66,
+                1,
+                4
+            ],
+            "BPM": 371
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                66,
+                2,
+                4
+            ],
+            "BPM": 372
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                66,
+                3,
+                4
+            ],
+            "BPM": 373
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                67,
+                0,
+                4
+            ],
+            "BPM": 374
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                67,
+                1,
+                4
+            ],
+            "BPM": 375
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                67,
+                2,
+                4
+            ],
+            "BPM": 376
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                67,
+                3,
+                4
+            ],
+            "BPM": 377
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                68,
+                0,
+                4
+            ],
+            "BPM": 378
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                68,
+                1,
+                4
+            ],
+            "BPM": 379
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                68,
+                2,
+                4
+            ],
+            "BPM": 380
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                68,
+                3,
+                4
+            ],
+            "BPM": 381
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                69,
+                0,
+                4
+            ],
+            "BPM": 382
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                69,
+                1,
+                4
+            ],
+            "BPM": 383
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                69,
+                2,
+                4
+            ],
+            "BPM": 384
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                69,
+                3,
+                4
+            ],
+            "BPM": 385
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                70,
+                0,
+                4
+            ],
+            "BPM": 386
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                70,
+                1,
+                4
+            ],
+            "BPM": 387
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                70,
+                2,
+                4
+            ],
+            "BPM": 388
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                70,
+                3,
+                4
+            ],
+            "BPM": 389
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                71,
+                0,
+                4
+            ],
+            "BPM": 390
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                71,
+                1,
+                4
+            ],
+            "BPM": 391
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                71,
+                2,
+                4
+            ],
+            "BPM": 392
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                71,
+                3,
+                4
+            ],
+            "BPM": 393
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                72,
+                0,
+                4
+            ],
+            "BPM": 394
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                72,
+                1,
+                4
+            ],
+            "BPM": 395
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                72,
+                2,
+                4
+            ],
+            "BPM": 396
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                72,
+                3,
+                4
+            ],
+            "BPM": 397
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                73,
+                0,
+                4
+            ],
+            "BPM": 398
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                73,
+                1,
+                4
+            ],
+            "BPM": 399
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                73,
+                2,
+                4
+            ],
+            "BPM": 100
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                74,
+                0,
+                1
+            ],
+            "BPM": 200
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                77,
+                0,
+                1
+            ],
+            "BPM": 1000
+        },
+        {
+            "Type": "BPMChange",
+            "Beat": [
+                85,
+                0,
+                1
+            ],
+            "BPM": 250
+        }
+    ]
+}

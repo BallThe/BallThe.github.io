@@ -1,11 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>主页 - BallThe WebSite</title>
+    <title>主页 - BallThe Website</title>
 </head>
+
 <body>
-    Hello There!
+    <style>
+        a {
+            border: 2px gray solid;
+            border-radius: 10px;
+            padding: 5px;
+            color: black;
+            font-size: 25px;
+            text-decoration: none;
+            display: inline-block;
+            margin-bottom: 10px;
+            width: 30vw;
+            animation-name: closecontent;
+            animation-duration: 0.5s;
+            height: 32px;
+        }
+
+        a:hover{
+            background-color: gray;
+            color:white;
+            animation-name: opencontent;
+            animation-duration: 0.5s;
+        }
+
+        @keyframes opencontent{
+            from {
+                background-color: white;
+                color: black;
+            }
+
+            to{
+                background-color: gray;
+                color:white;
+            }
+        }
+
+        @keyframes closecontent{
+            from {
+                background-color: gray;
+                color:white;
+            }
+
+            to{
+                background-color: white;
+                color: black;
+            }
+        }
+    </style>
+    <center>
+        <h1>BallThe's Website</h1>
+        <a href="Omega/main.html">Omega网页版</a><br>
+        <a href="https://game.hullqin.cn">Hull Qin网页桌游</a>
+    </center>
 </body>
+
 </html>
