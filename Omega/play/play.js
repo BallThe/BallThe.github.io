@@ -11,18 +11,20 @@ const CHARTS_ID = {
     "shadows": "Shadows"
 }
 
-function getChartFile(urlParams){
-    let req = new XMLHttpRequest();
-    req.onreadystatechange = () => {
-        console.log(req);
-        if(req.readyState == XMLHttpRequest.DONE && req.status == 200){
-            console.log(req.responseText);
-        }
-    }
-    req.open("GET",`../charts/${CHARTS_ID[urlParams["chart"]]}/${urlParams["difficulty"]}.json`,true);
+function getChartFile(){
+    let urlParams = getUrlParams();
+    let chartName = CHARTS_ID[urlParams["chart"]];
+    let chartDifficulty = urlParams["difficulty"];
+    // Fetch获取谱面
+    fetch(`../charts/${chartName}/${chartDifficulty}.json`)
+    .then((_responseData)=>{
+        _responseData.json()
+        .then((chartData)=>{
+            console.log(chartData);
+        });
+    });
 }
 
 window.onload = () => {
-    let urlParams = getUrlParams();
-    getChartFile(urlParams);
+    getChartFile();
 }
